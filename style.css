@@ -1,0 +1,42 @@
+.bg-image {
+    background-image: url(https://media.discordapp.net/attachments/997260939135025223/1101966297534824489/dripthro_futuristic_soccer_stadium_in_dystopian_city_02ae837f-01d5-48c6-9704-a1b7c918ce5c.png?width=994&height=994);
+}
+
+.btn-1 {
+    background-color: aqua;
+    color: white;
+    border-radius: 2rem;
+    height: 6vh;
+    width: 12vh;
+
+}
+
+.score-size {
+    min-height: 70vh;
+}
+
+.score-details {
+    height: 60vh;
+    /* width: 100vh; */
+    background-color: black;
+    opacity: 50%;
+    border-radius: 1rem;
+    box-shadow: 10px 10px white;
+
+}
+
+.btn-row {
+    min-height: 20vh;
+
+}
+
+.score-counter {
+    height: 30vh;
+    width: 40vh;
+    font-size: 15vh;
+    background-color: white;
+    border-radius: 20%;
+    padding: 1rem;
+    margin: 4rem;
+
+}
